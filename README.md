@@ -6,7 +6,7 @@ Learn how to build and deploy a full-stack NFT marketplace on the Solana blockch
 
 ## Project Overview
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2024/10/Build-Deploy-a-Solana-NFT-Creator-DApp-with-Next.js-Phantom-Wallet-Metaplex-Solana-Blockchain-Dapp.jpg)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2024/10/Full-Stack-Solana-Blockchain-NFT-Marketplace-DApp.jpeg)
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
