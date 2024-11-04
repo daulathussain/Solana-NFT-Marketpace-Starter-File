@@ -10,11 +10,11 @@ Learn how to build and deploy a full-stack NFT marketplace on the Solana blockch
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-solana-nft-creator-dapp-with-next.js-phantom-wallet-and-metaplex-or-solana-blockchain-dapp)
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-full-stack-solana-blockchain-nft-marketplace-dapp)
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/jMxvW_SfVBM?si=FRs7WwYdL5-cCx1O)
+- [Final Code Setup video](https://youtu.be/9m0x0VRKIiI?si=mJwGbWLDh0lgRXPF)
 
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
@@ -53,12 +53,14 @@ Once you download the final source code, you will get a ZIP file, then you will 
 
 ```
   WATCH: Setup & Demo Of Project
+  URL: https://youtu.be/9m0x0VRKIiI?si=mJwGbWLDh0lgRXPF
 ```
 
 #### Final Source Code
 
 ```
   Download the Final Source Code
+URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-full-stack-solana-blockchain-nft-marketplace-dapp
 ```
 
 #### Install Vs Code Editor
